@@ -1,0 +1,15 @@
+body{
+    color: rgb(131, 115, 54);
+    /* background-color: rgb(218, 165, 32); */
+    /* background-image: url("https://pbs.twimg.com/media/DKrY-m9W4AUTSnI.jpg"); */
+    /* background-repeat: no-repeat;
+    background-position: center top; */
+    background-attachment: fixed;
+    background: dodgerblue url("https://pbs.twimg.com/media/DKrY-m9W4AUTSnI.jpg") no-repeat center top;
+}
+
+h1{
+    text-align: center;
+    background-color: rgba(30, 143, 255, 0.315);
+    
+}
